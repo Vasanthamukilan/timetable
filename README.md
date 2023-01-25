@@ -82,6 +82,6 @@ Execute the program
 </html>
 ```
 ## OUTPUT:
-!['output']
+!['output'](/Screenshot_20221230_112924.png)
 ## RESULT:
 The timetable is displayed successfully.
